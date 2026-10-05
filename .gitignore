@@ -1,0 +1,5 @@
+texttovoice/
+__pycache__/
+*.pyc
+.env
+.streamlit/
